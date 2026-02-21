@@ -34,9 +34,9 @@ To set up user accounts and file permissions in a Linux environment, specificall
 - (Add all other commands used for execution here)
 
 ## Screenshots of Results
-![Intial Prompt](Initial command.png)
-![Next Prompt](Next Command.png)
-![Final Prompt](Final Command.png)
+![Intial Prompt](https://github.com/Saniwaa/Cybersecurity-kali/blob/main/Initial%20command.png)
+![Next Prompt](https://github.com/Saniwaa/Cybersecurity-kali/blob/main/Next%20Command.png)
+![Final Prompt](https://github.com/Saniwaa/Cybersecurity-kali/blob/main/Final%20Command.png)
 
 ## Key Observations / Lessons Learned
 - Gained hands-on experience with Linux user management.
